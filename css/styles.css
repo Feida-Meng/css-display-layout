@@ -1,0 +1,68 @@
+*{
+  box-sizing: border-box;
+}
+
+h1{
+  text-align: center;
+  margin:auto;
+  background: black;
+  color: white;
+
+}
+
+nav{
+  text-align: center;
+}
+
+main{
+
+  text-align: center;
+}
+
+h2{
+  text-align: left;
+  background-color: green;
+  color:black;
+  margin:2px;
+
+}
+
+span{
+  text-decoration: underline;
+  text-decoration-color: yellow;
+}
+.navblock{
+  display:inline-block;
+  margin:auto;
+  background: grey;
+  color: white;
+}
+
+.imgblock {
+
+  display:inline-block;
+  width: 32%;
+  height:300px ;
+  margin: 0.2%;
+}
+
+.editdeletelink{
+background-color: yellow;
+}
+
+.editdeletelink a, p {
+  display:inline-block;
+}
+
+img {
+  display: block;
+  width:100%;
+  height:100%;
+}
+
+h4{
+
+  text-align: center;
+  background-color: black;
+  color: white;
+}
